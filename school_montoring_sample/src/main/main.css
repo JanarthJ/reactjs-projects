@@ -1,0 +1,10 @@
+.divGrid{
+    display: grid;
+    grid-template-columns: auto 5fr;
+    height: 100vh;
+}
+.divRightContent{
+    margin: auto;
+    height: 60%;
+    width: 1000px;
+}
